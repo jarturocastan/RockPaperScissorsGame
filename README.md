@@ -1,4 +1,13 @@
 
+## Table of contents
+* [Getting started](#getting-started)
+* [Technologies](#technologies)
+* [Requirements](#requirements)
+* [Install](#install)
+* [Run tests](#run-tests)
+* [Deploy](#deploy)
+* [Author](#author)
+
 ## Getting started
 
 This exercise was performed as a skills test
@@ -24,7 +33,7 @@ For docker users
 * clone this repo  [https://github.com/jarturocastan/RockPaperScissorsGame.git]( https://github.com/jarturocastan/RockPaperScissorsGame.git)
 * cd  /path/to/the/folder
 * npm install
-## Run Test
+## Run Tests
 * cd  /path/to/the/folder
 * truffle test
 ## Deploy
