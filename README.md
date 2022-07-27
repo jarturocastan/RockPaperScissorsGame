@@ -21,7 +21,7 @@ For docker users
 * [Download the ganache image](https://hub.docker.com/r/trufflesuite/ganache-cli/) and open the port 8545
 
 ## Install
-* clone this repo
+* clone this repo  [https://github.com/jarturocastan/RockPaperScissorsGame.git]( https://github.com/jarturocastan/RockPaperScissorsGame.git)
 * cd  /path/to/the/folder
 * npm install
 ## Run Test
