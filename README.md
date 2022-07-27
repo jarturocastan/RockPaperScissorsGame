@@ -27,5 +27,7 @@ For docker users
 ## Run Test
 * cd  /path/to/the/folder
 * truffle test
+## Deploy
+this project has not migrations to deploy for production
 ## Author
 José Arturo Castan Acosta
